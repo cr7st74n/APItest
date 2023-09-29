@@ -2,7 +2,6 @@ import requests
 from pprint import pprint
 import os
 from datetime import datetime
-import logging
 
 # Key
 apiKey = os.environ.get('WEATHER_KEY')
