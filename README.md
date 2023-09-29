@@ -25,7 +25,8 @@ Boost Software 1.0 License
 Cristian Gonzalez
 
 ## Tests
-no
+![image](https://github.com/cr7st74n/APItest/assets/34308684/884d50cc-7bef-491c-b5cf-33ef965dedd4)
+
 
 ## Questions
  
